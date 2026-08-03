@@ -1,0 +1,10 @@
+{
+    "mode": "with_cv",
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "accuracy": 99.04,
+    "precision": 99.02,
+    "recall": 99.01,
+    "f1_score": 99.02,
+    "parameters_million": 41.15
+}

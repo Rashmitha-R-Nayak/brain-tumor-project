@@ -1,0 +1,9 @@
+{
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "accuracy": 98.74,
+    "precision": 98.71,
+    "recall": 98.71,
+    "f1_score": 98.71,
+    "parameters_million": 6.96
+}

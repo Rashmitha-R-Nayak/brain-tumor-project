@@ -1,0 +1,25 @@
+{
+    "model_1": {
+        "arch": "densenet121",
+        "weights": "densenet121_best_model_weights.pth",
+        "weight": 0.6
+    },
+    "model_2": {
+        "arch": "inception_v4",
+        "weights": "inceptionv4_best_model_weights.pth",
+        "weight": 0.4
+    },
+    "temperature": 2.0,
+    "class_weights": [
+        1.0,
+        1.0,
+        0.5,
+        1.0
+    ],
+    "classes": [
+        "glioma",
+        "meningioma",
+        "notumor",
+        "pituitary"
+    ]
+}

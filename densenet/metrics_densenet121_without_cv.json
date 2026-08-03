@@ -1,0 +1,8 @@
+{
+    "mode": "without_cv",
+    "accuracy": 99.31,
+    "precision": 99.36,
+    "recall": 99.28,
+    "f1_score": 99.32,
+    "parameters_million": 6.96
+}

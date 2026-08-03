@@ -1,0 +1,8 @@
+{
+    "mode": "val_split+earlystop",
+    "accuracy": 99.09,
+    "precision": 99.0,
+    "recall": 98.92,
+    "f1_score": 98.95,
+    "parameters_million": 6.96
+}

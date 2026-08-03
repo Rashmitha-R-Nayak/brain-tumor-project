@@ -1,0 +1,3 @@
+Test Samples: 105
+Mean Dice Score (Whole Tumor): 0.8423
+Mean IoU Score  (Whole Tumor): 0.7497

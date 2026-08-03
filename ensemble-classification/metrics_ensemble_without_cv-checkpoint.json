@@ -1,0 +1,8 @@
+{
+    "mode": "ensemble_soft_voting",
+    "accuracy": 27.4,
+    "precision": 6.85,
+    "recall": 25.0,
+    "f1_score": 10.75,
+    "parameters_million": 48.11
+}

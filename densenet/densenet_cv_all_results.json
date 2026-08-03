@@ -1,0 +1,38 @@
+[
+    {
+        "learning_rate": 0.0001,
+        "weight_decay": 0.0001,
+        "accuracy": 98.74,
+        "precision": 98.71,
+        "recall": 98.71,
+        "f1_score": 98.71,
+        "parameters_million": 6.96
+    },
+    {
+        "learning_rate": 0.0001,
+        "weight_decay": 1e-05,
+        "accuracy": 98.98,
+        "precision": 98.94,
+        "recall": 98.94,
+        "f1_score": 98.94,
+        "parameters_million": 6.96
+    },
+    {
+        "learning_rate": 0.0003,
+        "weight_decay": 0.0001,
+        "accuracy": 99.05,
+        "precision": 99.03,
+        "recall": 99.03,
+        "f1_score": 99.03,
+        "parameters_million": 6.96
+    },
+    {
+        "learning_rate": 0.0003,
+        "weight_decay": 1e-05,
+        "accuracy": 98.56,
+        "precision": 98.52,
+        "recall": 98.54,
+        "f1_score": 98.53,
+        "parameters_million": 6.96
+    }
+]
